@@ -1,12 +1,12 @@
 ### Cloud Storage
 #### last update: 2024.12.14
-- **Dropbox** (3)- https://www.dropbox.com/
+- **Dropbox** (3) - https://www.dropbox.com/
 - **filen** (1) - https://filen.io
-- **IceDrive** (2)- https://icedrive.net
+- **IceDrive** (2) - https://icedrive.net
 - **Internxt** (1) - https://internxt.com
 - **Koofr** - https://koofr.eu
 - **Mega** (1) - https://mega.nz
-- **OneDrive** (3)- https://onedrive.com
+- **OneDrive** (3) - https://onedrive.com
 - **pCloud** (2, 3) - https://landing.pcloud.com
 - **Proton Drive** (1, 2) - https://proton.me
 - **sync** (2) - https://www.sync.com/blackfriday2024
