@@ -2,7 +2,7 @@
 #### last update: 2024.12.14
 - **box.com** - https://box.com
 - **Dropbox** (3) - https://www.dropbox.com
-- **filen** (1) - https://filen.io
+- **filen** (1, 2) - https://filen.io
 - **Google Drive** - https://drive.google.com
 - **IDrive** - https://idrive.com
 - **IceDrive** (2) - https://icedrive.net
