@@ -7,7 +7,7 @@
 - **Koofr** - https://koofr.eu
 - **Mega** (1) - https://mega.nz
 - **OneDrive** (3)- https://onedrive.com
-- **pCloud** (2,3) - https://landing.pcloud.com
+- **pCloud** (2, 3) - https://landing.pcloud.com
 - **Proton Drive** (1, 2) - https://proton.me
 - **sync** (2) - https://www.sync.com/blackfriday2024
 - **tresorit** (2) - https://tresorit.com
