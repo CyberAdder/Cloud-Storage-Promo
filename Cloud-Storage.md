@@ -1,6 +1,6 @@
 ### Cloud Storage
 #### last update: 2024.12.14
-- **box** - https://box.com
+- **box.com** - https://box.com
 - **Dropbox** (3) - https://www.dropbox.com
 - **filen** (1) - https://filen.io
 - **Google Drive** - https://drive.google.com
@@ -13,7 +13,7 @@
 - **pCloud** (2, 3) - https://landing.pcloud.com
 - **Proton Drive** (1, 2) - https://proton.me
 - **SugarSync** - https://sugarsync.com
-- **sync** (2) - https://www.sync.com/blackfriday2024
+- **sync.com** (2) - https://www.sync.com/blackfriday2024
 - **tresorit** (2) - https://tresorit.com
 
 (1) recomended by https://www.privacytools.io/encrypted-cloud-storage  
