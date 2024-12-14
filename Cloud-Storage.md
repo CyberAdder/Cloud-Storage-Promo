@@ -13,7 +13,7 @@
 - **tresorit** (2) - https://tresorit.com
 
 (1) recomended by https://www.privacytools.io/encrypted-cloud-storage  
-(2) end-2-end encryption (E2EE)
+(2) end-2-end encryption (E2EE)  
 (3) block-level synchronization capabilities (only clouds like Dropbox, OneDrive, pCloud, and Amazon Drive support it)
 
 For new filen.io account, use link below, please. It give you 10GB capacity more (it makes 20GB):  
