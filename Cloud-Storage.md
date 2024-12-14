@@ -13,7 +13,7 @@
 - **pCloud** (2, 3) - https://landing.pcloud.com
 - **Proton Drive** (1, 2) - https://proton.me
 - **SugarSync** - https://sugarsync.com
-- **sync.com** (2) - https://www.sync.com/blackfriday2024
+- **sync.com** (2) - https://www.sync.com
 - **tresorit** (2) - https://tresorit.com
 
 (1) recomended by https://www.privacytools.io/encrypted-cloud-storage  
