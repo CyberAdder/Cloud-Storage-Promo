@@ -8,7 +8,7 @@
 - **IceDrive** (2) - https://icedrive.net
 - **Internxt** (1) - https://internxt.com
 - **Koofr** - https://koofr.eu
-- **MEGA** (1) - https://mega.nz
+- **MEGA** (1) - https://mega.io
 - **OneDrive** (3) - https://onedrive.com
 - **pCloud** (2, 3) - https://landing.pcloud.com
 - **Proton Drive** (1, 2) - https://proton.me
