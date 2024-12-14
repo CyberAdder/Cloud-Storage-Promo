@@ -10,7 +10,7 @@
 - **Koofr** - https://koofr.eu
 - **MEGA** (1) - https://mega.io
 - **OneDrive** (3) - https://onedrive.com
-- **pCloud** (2, 3) - https://landing.pcloud.com
+- **pCloud** (2, 3) - https://pcloud.com
 - **Proton Drive** (1, 2) - https://proton.me
 - **SugarSync** - https://sugarsync.com
 - **sync.com** (2) - https://www.sync.com
