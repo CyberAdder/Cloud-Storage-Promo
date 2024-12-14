@@ -1,15 +1,15 @@
 ### Cloud Storage
 #### last update: 2024.12.14
-- **Dropbox** 
-- **filen** (1) - https://filen.io/pricing 
-- **IceDrive** (2)- https://icedrive.net/offers/black-friday-cyber-weekend-2024
-- **Internxt** (1) - https://internxt.com/black-friday
-- **koofr** - https://koofr.eu/black-friday-2024/
-- **OneDrive**
-- **pCloud** (2) - https://landing.pcloud.com/BF2024 + https://landing.pcloud.com/CyberMonday2024
-- **Proton Drive** (1, 2) - https://proton.me/drive/black-friday
+- **Dropbox** - https://www.dropbox.com/
+- **filen** (1) - https://filen.io
+- **IceDrive** (2)- https://icedrive.net
+- **Internxt** (1) - https://internxt.com
+- **koofr** - https://koofr.eu
+- **OneDrive** - https://onedrive.com
+- **pCloud** (2) - https://landing.pcloud.com
+- **Proton Drive** (1, 2) - https://proton.me
 - **sync** (2) - https://www.sync.com/blackfriday2024
-- **tresorit** (2) - https://tresorit.com/cyber-sale/personal
+- **tresorit** (2) - https://tresorit.com
 
 (1) recomended by https://www.privacytools.io/encrypted-cloud-storage  
 (2) end-2-end encryption (E2EE)
