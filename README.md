@@ -1,7 +1,6 @@
 ## Cloud Storage Promo 
 #### last update: 2024.12.14
 
-### Cloud Drives Promotions
 - **filen** (1) - https://filen.io/pricing 
 - **Internxt** (1) - https://internxt.com/#priceTable
 - **pCloud** (2) - https://landing.pcloud.com/FamilyHolidays-2024
