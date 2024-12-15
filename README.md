@@ -1,9 +1,8 @@
 ## Cloud Storage Promo 
-#### last update: 2024.12.14
+#### last update: 2024.12.15
 
 - **box.com** - https://www.box.com/pricing
 - **IDrive.com** - https://www.idrive.com/pricing
-- **filen** (1) - https://filen.io/pricing 
 - **Internxt** (1) - https://internxt.com/#priceTable
 - **pCloud** (2) - https://landing.pcloud.com/FamilyHolidays-2024
 - **Proton Drive** (1, 2) - https://proton.me/drive/pricing
