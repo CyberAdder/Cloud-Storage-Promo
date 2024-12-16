@@ -1,17 +1,17 @@
 ### Cloud Storage
-#### last update: 2024.12.14
-- **box.com** - https://box.com
+#### last update: 2024.12.16
+- **box.com** - https://box.com (pricing: https://www.box.com/pricing)
 - **Dropbox** (3) - https://www.dropbox.com
-- **filen** (1, 2) - https://filen.io
+- **filen** (1)(2) - https://filen.io (pricing: https://filen.io/pricing)
 - **Google Drive** - https://drive.google.com
-- **IDrive** - https://idrive.com
-- **IceDrive** (2) - https://icedrive.net
-- **Internxt** (1) - https://internxt.com
+- **IDrive** - https://idrive.com (pricing: https://www.idrive.com/pricing)
+- **IceDrive** (2) - https://icedrive.net (plans: https://icedrive.net/plans)
+- **Internxt** (1) - https://internxt.com (pricing https://internxt.com/pricing)
 - **Koofr** - https://koofr.eu
-- **MEGA** (1) - https://mega.io
+- **MEGA** (1)(2) - https://mega.io (pricing https://mega.io/pl/pricing)
 - **OneDrive** (3) - https://onedrive.com
-- **pCloud** (2, 3) - https://pcloud.com
-- **Proton Drive** (1, 2) - https://proton.me
+- **pCloud** (2)(3) - https://pcloud.com
+- **Proton Drive** (1)(2) - https://proton.me
 - **SugarSync** - https://sugarsync.com
 - **sync.com** (2) - https://www.sync.com
 - **tresorit** (2) - https://tresorit.com
