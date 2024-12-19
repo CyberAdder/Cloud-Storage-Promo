@@ -1,5 +1,5 @@
 ## Cloud Storage Promo 
-#### last update: 2024.12.18 
+#### last update: 2024.12.19
 
 - **box.com** - https://www.box.com/pricing
 - **IDrive.com** - https://www.idrive.com/pricing
@@ -9,7 +9,7 @@
 
 (1) recomended by https://www.privacytools.io/encrypted-cloud-storage  
 (2) end-2-end encryption (E2EE) 
-(3) block-level synchronization 
+(3) block-level synchronization  
 
 If you need a cloud storage solution with block-level synchronization capabilities - only clouds like Dropbox, OneDrive, pCloud, and Amazon Drive support it. 
 
