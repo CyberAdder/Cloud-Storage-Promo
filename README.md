@@ -1,5 +1,5 @@
 ## Cloud Storage Promo 
-#### last update: 2024.12.24 (CET)
+#### last update: 2024.12.26 (CET)
 
 - **box.com** - https://www.box.com/pricing
 - **IDrive.com** - https://www.idrive.com/pricing
