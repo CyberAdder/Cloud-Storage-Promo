@@ -1,5 +1,5 @@
 ## Cloud Storage Promo 
-#### last update: 2024.12.28 (CET)
+#### last update: 2024.12.29 (CET)
 
 - **box.com** - https://www.box.com/pricing
 - **IceDrive** (2) - https://icedrive.net/offers/christmas-2024  
