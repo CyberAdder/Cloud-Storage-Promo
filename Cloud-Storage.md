@@ -1,5 +1,5 @@
 ### Cloud Storage
-#### last update: 2024.12.28 (CET)
+#### last update: 2025.01.19 (CET)
 - **box.com** - https://box.com (pricing: https://www.box.com/pricing)
 - **Dropbox** (3) - https://www.dropbox.com (plans: https://www.dropbox.com/en/plans)
 - **filen** (1)(2) - https://filen.io (pricing: https://filen.io/pricing)
