@@ -4,7 +4,7 @@
 - **box.com** - https://www.box.com/pricing
 - **IceDrive** (2) - https://icedrive.net/lifetime-plans
 - **IDrive.com** - https://www.idrive.com/pricing
-- **Internxt** (1)(4) - https://internxt.com/#priceTable
+- **Internxt** (1)(4) - https://internxt.com/#priceTable (80% off)
 - **pCloud** (2)(3)(4) - https://landing.pcloud.com/FamilyHolidays-2024
 - **Proton Drive** (1)(2) - https://proton.me/drive/pricing
 
