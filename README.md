@@ -4,7 +4,7 @@
 - **box.com** - https://www.box.com/pricing
 - **IceDrive** (2) - https://icedrive.net/lifetime-plans
 - **IDrive.com** - https://www.idrive.com/pricing
-- **Internxt** (1)(4) - https://internxt.com/#priceTable (80% off)
+- **Internxt** (1)(4) - https://internxt.com/#priceTable (85% off)
 - **pCloud** (2)(3)(4) - https://landing.pcloud.com/ValentinesDay-25 (Valentine’s Special: 50% Off)
 - **Proton Drive** (1)(2) - https://proton.me/drive/pricing (20-25% off)
 
