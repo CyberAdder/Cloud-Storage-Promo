@@ -1,12 +1,12 @@
 ## Cloud Storage Promo 
-#### last update: 2025.02.12 (CET)
+#### last update: 2025.02.13 (CET)
 
 - **box.com** - https://www.box.com/pricing
 - **IceDrive** (2) - https://icedrive.net/lifetime-plans
 - **IDrive.com** - https://www.idrive.com/pricing
 - **Internxt** (1)(4) - https://internxt.com/#priceTable (85% off)
 - **pCloud** (2)(3)(4) - https://landing.pcloud.com/ValentinesDay-25 (Valentine’s Special: 50% Off)
-- **Proton Drive** (1)(2) - https://proton.me/drive/pricing (20-25% off)
+- **Proton Drive** (1)(2) - https://proton.me/drive/pricing (20-25% off) Valentine's Day Offer -50% Proton Mail
 
 (1) recomended by https://www.privacytools.io/encrypted-cloud-storage  
 (2) end-2-end encryption (E2EE)  
