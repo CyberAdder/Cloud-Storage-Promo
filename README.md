@@ -1,5 +1,5 @@
 ## Cloud Storage Promo 
-#### last update: 2025.02.14 (CET)
+#### last update: 2025.02.20 (CET)
 
 - **box.com** - https://www.box.com/pricing (annually 25% off)
 - **IceDrive** (2) - https://icedrive.net/lifetime-plans
