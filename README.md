@@ -2,9 +2,9 @@
 #### last update: 2025.02.27 (CET)
 
 - **box.com** - https://www.box.com/pricing (annually 25% off)
-- **IceDrive** (2) - https://icedrive.net/lifetime-plans (lifetime plans 50% off)
+- **IceDrive** (2) - https://icedrive.net/lifetime-plans (Icedrive Spring Special promo)
 - **IDrive.com** - https://www.idrive.com/pricing (up to 50% off)
-- **Internxt** (1)(4) - https://internxt.com/#priceTable (80% off)
+- **Internxt** (1)(4) - https://internxt.com/#priceTable (80% off) and https://www.stacksocial.com/sales/internxt-cloud-storage-lifetime-subscription-10tb-plan (till 88% off)
 - **pCloud** (2)(3)(4) - https://www.pcloud.com/cloud-storage-pricing-plans.html
 - **Proton Drive** (1)(2) - https://proton.me/drive/pricing (20-40% off)
 
