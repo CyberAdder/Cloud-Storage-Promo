@@ -1,8 +1,8 @@
 ## Cloud Storage Promo 
-#### last update: 2025.03.17 (CET)
+#### last update: 2025.03.21 (CET)
 
 - **box.com** - https://www.box.com/pricing (annually 25% off)
-- **IceDrive** (2)(5) - https://icedrive.net/lifetime-plans (Icedrive Spring Special promo)
+- **IceDrive** (2)(5) - https://icedrive.net/lifetime-plans and https://icedrive.net/offers/spring-special-2025
 - **IDrive.com** - https://www.idrive.com/pricing (up to 50% off)
 - **Internxt** (1)(4)(5) - https://internxt.com/#priceTable (80% off) and https://www.stacksocial.com/sales/internxt-cloud-storage-lifetime-subscription-10tb-plan (till 88% off)
 - **pCloud** (2)(3)(4)(5) - https://www.pcloud.com/cloud-storage-pricing-plans.html
