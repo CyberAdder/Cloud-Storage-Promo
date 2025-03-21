@@ -11,7 +11,7 @@
 (1) recomended by https://www.privacytools.io/encrypted-cloud-storage  
 (2) end-2-end encryption (E2EE)  
 (3) block-level synchronization  
-(4) lifetime plans 
+(4) lifetime plans  
 (5) plans stackable (https://comparisontabl.es/cloud-storage/)
 
 If you need a cloud storage solution with block-level synchronization capabilities - only clouds like Dropbox, OneDrive, pCloud, and Amazon Drive support it. 
