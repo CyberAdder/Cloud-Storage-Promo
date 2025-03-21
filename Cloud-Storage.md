@@ -1,5 +1,5 @@
 ### Cloud Storage
-#### last update: 2025.03.17 (CET)
+#### last update: 2025.03.21 (CET)
 - **box.com** - https://box.com (pricing: https://www.box.com/pricing)
 - **Dropbox** (3) - https://www.dropbox.com (plans: https://www.dropbox.com/en/plans)
 - **filen** (1)(2)(4)(5) - https://filen.io (pricing: https://filen.io/pricing)
@@ -18,8 +18,8 @@
 
 (1) recomended by https://www.privacytools.io/encrypted-cloud-storage  
 (2) end-2-end encryption (E2EE)  
-(3) block-level synchronization capabilities (only Dropbox, OneDrive, pCloud, and Amazon Drive support it)
-(4) lifetime plans
+(3) block-level synchronization capabilities (only Dropbox, OneDrive, pCloud, and Amazon Drive support it)  
+(4) lifetime plans  
 (5) plans stackable (https://comparisontabl.es/cloud-storage/)
 
 For new filen.io account, use link below, please. It give you 10GB capacity more (it makes 20GB):  
